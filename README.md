@@ -1,6 +1,6 @@
  Hi there 👋. I am Precious Ajayi; a data analyst and a data science enthusiast. 
- I am currently consolidating my analysis skills before delving fully into data science. 
- I look to collaborate on projects that solve real life problem; creating models that will optimize operations and accurately predict outcomes.
+ I am a Civil Engineering graduate.
+ I look to collaborate on projects that solve real life problems; creating models that will optimize operations and accurately predict outcomes.
  
 
 <!--
