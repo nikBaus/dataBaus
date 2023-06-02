@@ -1,6 +1,6 @@
  Hi there 👋. I am Precious Ajayi; a data analyst and a data science enthusiast. 
  I am a Civil Engineering graduate.
- I enjoy data storytelling and have proven experience in using technical tools and soft skills in analyzing data and relating insights/recommendation to stakeholders comprehensibly.
+ I enjoy data storytelling and have proven experience in using technical tools and soft skills in analyzing data and relating insights/recommendations to stakeholders comprehensibly.
  I look to collaborate on projects that solve real life problems; creating models that will optimize operations and accurately predict outcomes.
  
 
